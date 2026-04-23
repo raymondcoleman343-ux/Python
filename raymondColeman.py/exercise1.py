@@ -22,8 +22,7 @@ print(colors)
 
 #5
 votes = ["Yes", "No", "Yes", "Yes", "No"]
-(votes.count("Yes"))
-print(votes)
+print(votes.count("Yes"))
 
 #6
 alphabets = ["a", "b", "c", "d", "e", "f"]
